@@ -1,5 +1,6 @@
 from l6 import L6
 
+
 def test_list():
     listt = L6.LinkedList()
     listt.append(5)
