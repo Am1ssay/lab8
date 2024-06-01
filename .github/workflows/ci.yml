@@ -24,6 +24,6 @@ jobs:
 
     - name: Run tests
       run: |
-        pytest lab8/test_l5.py
-        pytest lab8/test_l6.py
-        pytest lab8/test_l7.py
+        pytest test_l5.py
+        pytest test_l6.py
+        pytest test_l7.py
